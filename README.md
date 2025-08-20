@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=eryyQu&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 💬 Let's talk tech:
-[![Join me on Discord](https://img.shields.io/badge/Join%20me%20on%20Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/twoj-link)
+[![Join me on Discord](https://img.shields.io/badge/Join%20me%20on%20Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eryyqu)
 
 ---
 
